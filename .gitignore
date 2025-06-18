@@ -1,0 +1,4 @@
+kaggle.json
+data/
+*.zip
+.ipynb_checkpoints/
